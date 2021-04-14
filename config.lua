@@ -85,7 +85,7 @@ cleanProtectionZones = false
 -- Connection Config
 -- NOTE: maxPlayers set to 0 means no limit
 -- NOTE: MaxPacketsPerSeconds if you change you will be subject to bugs by WPE, keep the default value of 25
-ip = '51.222.21.220' 
+ip = '' 
 bindOnlyGlobalAddress = false
 loginProtocolPort = 7171
 gameProtocolPort = 7172
@@ -165,8 +165,8 @@ maxMarketOffersAtATimePerPlayer = 100
 -- MySQL
 mysqlHost = "127.0.0.1"
 mysqlUser = "root"
-mysqlPass = "123otmtrocar456"
-mysqlDatabase = "globalfox1264"
+mysqlPass = ""
+mysqlDatabase = ""
 mysqlPort = 3306
 mysqlSock = ""
 passwordType = "sha1"
@@ -224,7 +224,7 @@ defaultPriority = "high"
 startupDatabaseOptimization = true
 
 -- Status server information
-ownerName = "Vilaggio Ot Server"
-ownerEmail = "m.costick@hotmail.com"
-url = "http://vilaggio.servegame.com/"
+ownerName = ""
+ownerEmail = ""
+url = ""
 location = "South America"
